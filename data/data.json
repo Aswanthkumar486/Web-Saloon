@@ -1,0 +1,182 @@
+{
+  "navbar": {
+    "brand": "GlowNex",
+    "items": [
+      { "name": "Glow Start", "href": "#home" },
+      { "name": "Our Story", "href": "#about" },
+      { "name": "Exclusive Treatments", "href": "#products" },
+      { "name": "Beauty & Wellness", "href": "#services" },
+      { "name": "Get in Touch", "href": "#footer" }
+    ]
+  },  
+  "products": [
+   {
+      "id": "treatment-1",
+      "title": "Hydrafacial",
+      "category": "Facials",
+      "price": 2499,
+      "image": "https://www.bing.com/th/id/OIP.mv_FjX-U_tN2tUmIfeqxigHaEK?w=261&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+    },
+    {
+      "id": "treatment-2",
+      "title": "Hair Spa",
+      "category": "Haircare",
+      "price": 1799,
+      "image": "data:image/webp;base64,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"
+    },
+    {
+      "id": "treatment-3",
+      "title": "Body Massage",
+      "category": "Body",
+      "price": 2999,
+      "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-4.0.3&auto=format&fit=crop&w=1800&q=80"
+    },
+    {
+      "id": "treatment-4",
+      "title": "Haircut & Styling",
+      "category": "Hair Styling",
+      "price": 999,
+      "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "treatment-5",
+      "title": "Bridal Makeup",
+      "category": "Makeup",
+      "price": 4999,
+      "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": "treatment-6",
+      "title": "Manicure & Pedicure",
+      "category": "Nail Care",
+      "price": 1299,
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "about": {
+    "title": "About Us",
+    "brand": "GlowNex",
+    "description": "GlowNex is your luxury destination for beauty, wellness, and transformation. We blend modern techniques with timeless care to deliver unforgettable salon experiences.",
+    "whyChooseTitle": "Why Choose GlowNex?",
+    "features": [
+      {
+        "title": "Certified Professionals",
+        "description": "Expert stylists and aestheticians trained in global beauty standards"
+      },
+      {
+        "title": "Premium Products",
+        "description": "Only high-quality, skin-safe products for your treatments"
+      },
+      {
+        "title": "Relaxing Ambience",
+        "description": "Enjoy peace, comfort, and rejuvenation in every session"
+      },
+      {
+        "title": "Custom Care",
+        "description": "Tailored services for your personal beauty goals"
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1560066984-138dadb4c035?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      "alt": "Luxury Salon Interior",
+      "width": 600,
+      "height": 400
+    },
+    "footerNote": "Glowing since 2020 | Trusted by thousands of happy clients"
+  },
+  "services": {
+    "title": "Our Services",
+    "brand": "GlowNex",
+    "description": "At GlowNex, we offer a wide array of beauty and wellness services designed to enhance your confidence and inner glow.",
+    "serviceList": [
+      {
+        "icon": "💆‍♀️",
+        "title": "Spa Therapy",
+        "description": "Soothing full-body massage and spa treatments"
+      },
+      {
+        "icon": "💇‍♀️",
+        "title": "Hair Styling",
+        "description": "Trendy cuts, coloring, and hair care packages"
+      },
+      {
+        "icon": "💅",
+        "title": "Nail Art",
+        "description": "Creative manicures and pedicures with premium finishes"
+      },
+      {
+        "icon": "💄",
+        "title": "Makeup Services",
+        "description": "Bridal, party, and HD makeup by professionals"
+      }
+    ]
+  },
+  "footer": {
+    "brand": "GlowNex",
+    "tagline": "Luxury salon care for modern beauty lovers.",
+    "newsletter": {
+      "placeholder": "Enter your email",
+      "buttonText": "Subscribe for Beauty Tips"
+    },
+    "exploreLinks": [
+      "New Treatments",
+      "Trending Styles",
+      "Offers",
+      "Blog"
+    ],
+    "supportLinks": [
+      "Appointments",
+      "FAQs",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "contact": {
+      "location": "Los Angeles, USA",
+      "email": "care@glownex.com",
+      "phone": "+1 (800) 456-7890"
+    },
+    "socialMedia": [
+      {
+        "platform": "facebook",
+        "iconClass": "bi bi-facebook",
+        "url": "#"
+      },
+      {
+        "platform": "twitter",
+        "iconClass": "bi bi-twitter",
+        "url": "#"
+      },
+      {
+        "platform": "instagram",
+        "iconClass": "bi bi-instagram",
+        "url": "#"
+      },
+      {
+        "platform": "linkedin",
+        "iconClass": "bi bi-linkedin",
+        "url": "#"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 GlowNex. All rights reserved.",
+      "designer": "Salon Studio Designs"
+    }
+  },
+  "Heropage": [
+    {
+      "img": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?ixlib=rb-4.0.3&auto=format&fit=crop&w=1800&q=80",
+      "title": "Welcome to GlowNex",
+      "text": "Where Beauty Meets Bliss"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-4.0.3&auto=format&fit=crop&w=1800&q=80",
+      "title": "Luxury Treatments",
+      "text": "Relax, Rejuvenate, Revive"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1595475884562-073c30d45670?ixlib=rb-4.0.3&auto=format&fit=crop&w=1800&q=80",
+      "title": "Expert Stylists",
+      "text": "Look Good, Feel Great"
+    }
+  ]
+}

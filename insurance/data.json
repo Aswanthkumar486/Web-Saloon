@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Auto Insurance",
+      "description": "Comprehensive coverage for your vehicles",
+      "icon": "fa-car"
+    },
+    {
+      "id": 2,
+      "title": "Home Insurance",
+      "description": "Protect your property and belongings",
+      "icon": "fa-house"
+    },
+    {
+      "id": 3,
+      "title": "Health Insurance",
+      "description": "Medical coverage for you and family",
+      "icon": "fa-heart-pulse"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John D.",
+      "comment": "Saved me 30% on my auto insurance!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Sarah M.",
+      "comment": "Fast claims processing during emergency",
+      "rating": 4
+    }
+  ]
+  ,
+  "footer": {
+  "about": "We've been protecting dreams and assets for over 20 years with customized insurance solutions.",
+  "social": [
+    { "icon": "fab fa-facebook-f", "url": "https://facebook.com" },
+    { "icon": "fab fa-twitter", "url": "https://twitter.com" },
+    { "icon": "fab fa-linkedin-in", "url": "https://linkedin.com" }
+  ],
+  "links": [
+    { "title": "Home", "url": "/" },
+    { "title": "About Us", "url": "/about" },
+    { "title": "Services", "url": "/services" },
+    { "title": "Claims", "url": "/claims" },
+    { "title": "Contact", "url": "/contact" }
+  ],
+  "contactInfo": {
+    "address": "123 Insurance Ave, Safetown ST 12345",
+    "phone": "(800) 555-INSUR",
+    "email": "info@insuretrust.com"
+  },
+  "copyright": "© 2023 InsureTrust. All rights reserved."
+}
+
+}
